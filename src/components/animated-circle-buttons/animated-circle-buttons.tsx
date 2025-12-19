@@ -68,6 +68,7 @@ const PrevNextBlock = styled.div`
     left: 6.25vw;
     top: 88%;
     height: fit-content;
+    z-index: 1000;
   }
 `;
 
