@@ -24,10 +24,11 @@ npm start
 
 Для просмотра:
 
-bash
-git checkout feature/two-blocks
-npm install
-npm start
+```bash
+# 1. git checkout feature/two-blocks
+# 2. npm install
+# 3. npm start
+```
 📝 Скрипты
 npm start - запуск в режиме разработки
 
