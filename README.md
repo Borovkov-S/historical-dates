@@ -5,17 +5,23 @@ Historical Dates Project
 
 ### Клонирование и установка
 
-```bash
 1. Клонируйте репозиторий
+```bash
 git clone https://github.com/Borovkov-S/historical-dates.git
+```
 
 2. Перейдите в директорию проекта
+```bash
 cd historical-dates
+```
 
 3. Установите зависимости
+```bash
 npm install
+```
 
 4. Запустите приложение
+```bash
 npm start
 ```
 
